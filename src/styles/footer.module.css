@@ -1,0 +1,13 @@
+.footer{
+  background: var(--background);
+  color: var(--blue-primary);
+  padding:36px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  gap: 8px;
+}
+
+.footerText {
+  font-size: 14px;
+}
