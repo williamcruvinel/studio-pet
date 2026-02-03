@@ -22,7 +22,7 @@ function Header() {
             </Link>
           </li>
           <li>
-            <Link className={styles.btn} href="">
+            <Link className={styles.btn} href="#agendamentoForm">
               Agendar agora
             </Link>
           </li>
